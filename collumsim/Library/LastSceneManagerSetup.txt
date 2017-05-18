@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/calussem.unity
+  isLoaded: 1
+  isActive: 1
